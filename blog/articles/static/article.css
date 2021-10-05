@@ -1,0 +1,52 @@
+body {
+    background: #1abc9c;
+    font-family: Tahoma, Arial, sans-serif;
+    color: #ffffff;
+}
+
+.archive_body .header img {
+    display: block;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.archive {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.archive_body .post-title a {
+    color: #ffffff;
+}
+
+.article-author {
+    width: 50%;
+    float: left;
+}
+
+.article-created-date {
+    text-align: right;
+}
+
+.header a {
+    color: #ffffff;
+}
+
+.article .header {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.article .header a {
+    float: right;
+    margin-top: 50px;
+}
+
+
+.article .header img {
+    width: 100px;
+    margin-left: -14px;
+}
